@@ -27,6 +27,5 @@ class ViewController: UIViewController {
 
 }
 
-// These changes ae not important
-// I will end up deleting them
-// Git is not difficult
+
+
